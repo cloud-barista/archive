@@ -1,2 +1,2 @@
 # release
-Cloud-Barista project release store
+Cloud-Barista project release archive
