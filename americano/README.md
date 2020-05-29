@@ -59,7 +59,7 @@ The frameworks are in src directory.
     - cb-webtool 실행 (cb-webtool UGI 서버 실행)
   
 ## [API 규격]
-- cloud-barista/docs/API-Specifications/User-REST-API(v0.30).md 참고
+- cloud-barista/docs/API-Specifications/User-REST-API(v0.3).md 참고
   
 ## [활용 예시]
 - cb-spider API를 통해서 클라우드 연동 정보 입력
